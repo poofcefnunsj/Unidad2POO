@@ -1,4 +1,3 @@
-
 class Persona:
     __dni = 0
     __nombre = ''
